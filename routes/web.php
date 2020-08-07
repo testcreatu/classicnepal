@@ -29,6 +29,9 @@ Route::get('single-product', function () {
     return view('product.single-product');
 });
 
+Route::get('our-story', function () {
+    return view('story.our-story');
+});
 
 
 

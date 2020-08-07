@@ -10,7 +10,7 @@ $('.owl-catagory').owlCarousel({
             items:3
         },
         1000:{
-            items:4
+            items:3
         }
     }
 })

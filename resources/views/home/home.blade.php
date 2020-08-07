@@ -66,7 +66,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/6.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -80,7 +80,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/7.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -94,7 +94,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/8.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -140,7 +140,7 @@
 			</div>
 			<div class="owl-carousel owl-theme owl-catagory mt-4">
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/10.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -154,7 +154,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/6.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -168,7 +168,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/7.jpg')}}" class="img-fluid" alt="">
 						</div>
@@ -182,7 +182,7 @@
 					</a>
 				</div>
 				<div class="item">
-					<a href="#" class="product-list">
+					<a href="{{url('single-product')}}" class="product-list">
 						<div class="product-list-img">
 							<img src="{{url('public/images/8.jpg')}}" class="img-fluid" alt="">
 						</div>
