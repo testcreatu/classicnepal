@@ -1,0 +1,187 @@
+@media (max-width:1199px) {
+
+}
+
+@media (max-width:991px) {
+
+
+
+}
+
+
+
+
+
+
+
+@media (max-width:767px) {
+	.catagory-menu.show {
+		display: block;
+		left: auto;
+	}
+
+	.dropdown-menu > ul {
+		border-right: 0;
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+
+	.dropdown-menu > ul:last-child {
+		border-bottom: none;
+	}
+
+	.carousel-aside {
+		padding: 10px;
+	}
+
+	.carousel-aside .content p {
+	     margin-top: 0px; 
+	}
+
+	.subscribe form button {
+	    top: -14px;
+	}
+
+	.footer-social {
+	    text-align: left;
+	}
+
+	.show-image {
+	    height: 350px;
+	}
+
+	.small-img .icon-left, 
+	.small-img .icon-right {
+		display: none;
+	}
+
+	.description .content ul {
+		padding-left: 15px !important;
+	}
+
+	.description {
+		margin-top: 15px;
+	}
+}
+
+
+
+
+
+
+
+@media (max-width:480px) {
+	.catagory-menu.show {
+		display: block;
+		left: auto;
+	}
+
+	.dropdown-menu > ul {
+		border-right: 0;
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+
+	.dropdown-menu > ul:last-child {
+		border-bottom: none;
+	}
+
+	.carousel-aside {
+		padding: 10px;
+	}
+
+	.carousel-aside .content p {
+	     margin-top: 0px; 
+	}
+
+	.subscribe form button {
+	    top: -14px;
+	}
+
+	.footer-social {
+	    text-align: left;
+	}
+
+	.show-image {
+	    height: 350px;
+	}
+
+	.small-img .icon-left, 
+	.small-img .icon-right {
+		display: none;
+	}
+
+	.description .content ul {
+		padding-left: 15px !important;
+	}
+
+	.description {
+		margin-top: 15px;
+	}
+}
+
+
+
+
+
+@media (max-width:320px) {
+	.catagory-menu.show {
+		display: block;
+		left: auto;
+	}
+
+	.dropdown-menu > ul {
+		border-right: 0;
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+
+	.dropdown-menu > ul:last-child {
+		border-bottom: none;
+	}
+
+	.carousel-aside {
+		padding: 10px;
+	}
+
+	.carousel-aside .content p {
+	     margin-top: 0px; 
+	}
+
+	.subscribe form button {
+	    top: -14px;
+	}
+
+	.footer-social {
+	    text-align: left;
+	}
+
+	.show-image {
+	    height: 350px;
+	}
+
+	.small-img .icon-left, 
+	.small-img .icon-right {
+		display: none;
+	}
+
+	.description .content ul {
+		padding-left: 15px !important;
+	}
+
+	.description {
+		margin-top: 15px;
+	}
+
+}
+
+
+
+
+
+
+
+

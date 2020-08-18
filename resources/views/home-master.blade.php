@@ -26,6 +26,7 @@
 
     <!-- Global CSS -->
     <link rel="stylesheet" type="text/css" href="{{url('public/css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{url('public/css/responsive.css')}}">
 
     <!-- owl carousel -->
     <link rel="stylesheet" type="text/css" href="{{url('public/css/owl.carousel.min.css')}}">
@@ -71,8 +72,9 @@
 <!-- Global JS -->
 <script type="text/javascript" src="{{url('public/js/js.js')}}"></script>
 
-<script src="{{url('public/js/jquery.js')}}"></script>
-<script src="{{url('public/js/script.js')}}"></script>
-<script src="{{url('public/js/zoom.js')}}"></script>
+<!-- product image zoom js -->
+<script type="text/javascript" src="{{url('public/js/zoom-image.js')}}"></script>
+<script type="text/javascript" src="{{url('public/js/zoom-image-min.js')}}"></script>
+
 
 </html>

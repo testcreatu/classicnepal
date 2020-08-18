@@ -11,7 +11,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Our story <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="{{url('our-story')}}">Our story <span class="sr-only">(current)</span></a>
           </li>
           
           <li class="nav-item dropdown">
@@ -21,17 +21,17 @@
             <div class="dropdown-menu catagory-menu" aria-labelledby="navbarDropdown">
               <ul>
                 <li><h4 class="nav-title">Bootles</h4></li>
-                <li><a href="#">Insulated Water Bottle - 360 ml</a></li>
-                <li><a href="#">Plastic Flip Flop Water Bottle For Kids - 300 ml</a></li>
-                <li><a href="#">Foldable Water Bottle - 300 ml</a></li>
-                <li><a href="#">Flip Cover Water Bottle-500ml</a></li>
+                <li><a href="{{url('single-product')}}">Insulated Water Bottle - 360 ml</a></li>
+                <li><a href="{{url('single-product')}}">Plastic Flip Flop Water Bottle For Kids - 300 ml</a></li>
+                <li><a href="{{url('single-product')}}">Foldable Water Bottle - 300 ml</a></li>
+                <li><a href="{{url('single-product')}}">Flip Cover Water Bottle-500ml</a></li>
               </ul>
               <ul>
                 <li><h4 class="nav-title">Bags</h4></li>
               </ul>
               <ul>
                 <li><h4 class="nav-title">Cushions</h4></li>
-                <li><a href="#">KN95 Five Layer Protective Mask</a></li>
+                <li><a href="{{url('single-product')}}">KN95 Five Layer Protective Mask</a></li>
               </ul>
             </div>
           </li>

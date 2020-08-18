@@ -1,4 +1,4 @@
-<div class="subscribe ma-t">
+<div class="subscribe">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
